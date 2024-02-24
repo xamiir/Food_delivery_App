@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "868078215622",
+    "project_id": "fir-reactnative-5157e",
+    "storage_bucket": "fir-reactnative-5157e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868078215622:android:f15401626c419090e7d2c7",
+        "android_client_info": {
+          "package_name": "com.foodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATlnTQV1F6pEXT6LBye2rxhljZKfwLe1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
