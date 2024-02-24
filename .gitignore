@@ -3,6 +3,9 @@
 .DS_Store
 
 # Xcode
+android/
+ios/
+
 #
 build/
 *.pbxuser
@@ -64,3 +67,4 @@ yarn-error.log
 
 # testing
 /coverage
+# android 
